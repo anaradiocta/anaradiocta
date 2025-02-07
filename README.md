@@ -1,7 +1,7 @@
 # Hi, I'm Nelaocta 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaradiocta)](https://github.com/anaradiocta/github-readme-stats)
-
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anaradiocta"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaradiocta&layout=compact"/>
 
 <!--
 **anaradiocta/anaradiocta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
